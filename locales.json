@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Spanish (Spain)",
+    "code": "es-ES",
+    "fallbackCode": null,
+    "default": true,
+    "contentManagementApi": true,
+    "contentDeliveryApi": true,
+    "optional": false,
+    "sys": {
+      "type": "Locale",
+      "id": "3koMgAFIN0p0KxWpdMzmYC",
+      "version": 1,
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "otr3kvjzo6rg"
+        }
+      },
+      "createdBy": {
+        "sys": {
+          "type": "Link",
+          "linkType": "User",
+          "id": "3wfO9ZgIpLXVfGau9ononY"
+        }
+      },
+      "createdAt": "2018-02-28T15:10:25Z",
+      "updatedBy": {
+        "sys": {
+          "type": "Link",
+          "linkType": "User",
+          "id": "3wfO9ZgIpLXVfGau9ononY"
+        }
+      },
+      "updatedAt": "2018-02-28T15:10:25Z"
+    }
+  }
+]

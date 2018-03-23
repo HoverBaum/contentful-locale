@@ -1,0 +1,17 @@
+{
+  "name": "@hoverbaum/contentful-locale",
+  "version": "1.0.0",
+  "description": "Migrate an exported Space from one locale to another.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "contentful-locale": "index.js"
+  },
+  "author": "Hendrik Wallbaum <mail@hendrikwallbaum.de>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}
